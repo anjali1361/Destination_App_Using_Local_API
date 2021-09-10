@@ -2,7 +2,7 @@
 
 > Made with
 - Retrofit
-- Jon parsing 
+- Json parsing 
 - Local API
 >Which shows list of destination that is fetched from API .
 >
